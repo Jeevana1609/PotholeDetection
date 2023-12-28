@@ -1,0 +1,15 @@
+# train: ./train
+# val: ./val
+
+# nc:1
+# name:["pothole"]
+
+train: C:\Users\HEMANTH\Desktop\pothole_detection\train
+test: C:\Users\HEMANTH\Desktop\pothole_detection\test
+# Give the path of the dataset location for both train and test datasets.
+
+nc: 1
+# number of classes
+# As we have one class that is pothole
+
+names: ["pothole"]
